@@ -72,10 +72,10 @@ const handleMessage = async (sock, msg) => {
 
         const vcard = 'BEGIN:VCARD\n' +
                       'VERSION:3.0\n' +
-                      'FN:Joaquim\n' +
-                      'TEL;type=CELL;type=VOICE;waid=557481033040:+55 74 8103-3040\n' +
+                      'FN: Santos\n' +
+                      'TEL;type=CELL;type=VOICE;waid=447407405401:+44 74 0740 5401\n' +
                       'END:VCARD';
-        await sock.sendMessage(from, { contacts: { displayName: 'Joaquim', contacts: [{ vcard }] } });
+        await sock.sendMessage(from, { contacts: { displayName: 'Santos', contacts: [{ vcard }] } });
     }
 
     if (!body.startsWith(prefix)) {
