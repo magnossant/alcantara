@@ -51,5 +51,5 @@ Exemplos:
 Envie <strong>!menu</strong> para o bot para obter acesso a todos os comandos.
 
 <div align="center">
-    <img src="https://img96.pixhost.to/images/867/485490833_4235.jpg" width="300">
+    <img " width="300">
 </div>
