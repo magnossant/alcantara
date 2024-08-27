@@ -1,4 +1,4 @@
-# 🤖 Giulia
+# 🤖 Alcântara
 
 <br />
 
@@ -20,7 +20,7 @@ apt update -y && apt upgrade -y && pkg install git ffmpeg nodejs -y
 Clone o repositório e inicie o bot:
 
 ```
-git clone https://github.com/joaqmiu/giulia-bot bot && cd bot && npm i && npm start
+git clone https://github.com/magnossant/bot bot && cd bot && npm i && npm start
 
 ```
 
@@ -34,7 +34,7 @@ apt update -y && apt upgrade -y && pkg install git ffmpeg nodejs yarn -y
 Clone o repositório e inicie o bot:
 
 ```
-git clone https://github.com/joaqmiu/giulia-bot bot && cd bot && yarn install && npm start
+git clone https://github.com/magnossant/bot bot && cd bot && yarn install && npm start
 
 ```
 
@@ -45,8 +45,6 @@ O número de telefone deve ser inserido no formato internacional incluindo o DDI
 Exemplos:
 - +55 74 99999-9999
 -  5574999999999
-
-Em caso de dúvidas, entre em contato comigo pelo [WhatsApp](https://wa.me/557481033040)
 
 ## Comandos
 
