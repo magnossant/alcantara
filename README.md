@@ -20,7 +20,7 @@ apt update -y && apt upgrade -y && pkg install git ffmpeg nodejs -y
 Clone o repositório e inicie o bot:
 
 ```
-git clone https://github.com/magnossant/bot bot && cd bot && npm i && npm start
+git clone https://github.com/magnossant/alcantara bot && cd bot && npm i && npm start
 
 ```
 
@@ -34,7 +34,7 @@ apt update -y && apt upgrade -y && pkg install git ffmpeg nodejs yarn -y
 Clone o repositório e inicie o bot:
 
 ```
-git clone https://github.com/magnossant/bot bot && cd bot && yarn install && npm start
+git clone https://github.com/magnossant/alcantara bot && cd bot && yarn install && npm start
 
 ```
 
