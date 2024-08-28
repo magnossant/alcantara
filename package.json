@@ -2,9 +2,9 @@
   "name": "Alcântara",
   "version": "1.2.0",
   "description": "Um bot simples de WhatsApp usando Baileys.",
-  "main": "aut/1.js",
+  "main": "index.js",
   "scripts": {
-    "start": "bash bot.sh",
+    "start": "node --watch .",
     "test": "bash render.sh"
   },
   "author": "Santos",
